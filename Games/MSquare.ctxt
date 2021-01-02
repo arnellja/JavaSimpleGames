@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=b\ m\ n\ f
+comment0.target=MSquare(java.awt.Button,\ boolean,\ int,\ boolean)
+comment1.params=
+comment1.target=java.awt.Button\ getButton()
+comment2.params=
+comment2.target=boolean\ getMined()
+comment3.params=
+comment3.target=int\ getNumber()
+comment4.params=i
+comment4.target=void\ setNumber(int)
+comment5.params=
+comment5.target=boolean\ getFlipped()
+numComments=6
